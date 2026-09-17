@@ -16,4 +16,6 @@
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
 ### My stats:
-[GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jairgz97-lab&layout=compact&theme=dark)
+
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=jairgz97-lab&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jairgz97-lab&layout=compact&theme=dark)
