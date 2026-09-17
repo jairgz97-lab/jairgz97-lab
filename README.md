@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### About me:
-* 🔬 Biólogo con Maestría en Ciencias del Mar y Limnología (UNAM) reconvertido a Analista de Datos.
+* 🔬 Analista de Datos con formación científica (Biólogo con Maestría en Ciencias del Mar y Limnología, UNAM)
 * 📊 Especialista en extracción, limpieza, modelado y automatización de bases de datos masivas.
 * 🐍 Trabajo con Python (Pandas, NumPy, SciPy), SQL, Power BI, Tableau, Excel Avanzado y QGIS.
 * 🎸 Guitarrista en una banda de hard rock y apasionado por la tecnología.
@@ -15,7 +15,8 @@
 ![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
-### My stats:
-
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=jairgz97-lab&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jairgz97-lab&layout=compact&theme=dark)
+### Languages & Frameworks:
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
